@@ -1,5 +1,5 @@
 {
-  "name": "@teipublisher/pb-components",
+  "name": "@bullinger-digital/pb-components",
   "version": "2.24.9",
   "description": "Collection of webcomponents underlying TEI Publisher",
   "repository": "https://github.com/eeditiones/tei-publisher-components.git",
